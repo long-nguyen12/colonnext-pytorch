@@ -21,3 +21,8 @@ Download MSCAN's pretrained `weights`
 ### Results
 
 ![Results](images/ColonNeXt-visual-results.png "Results")
+
+
+### Heatmap
+
+![Results](images/heat-maps-1.png "Heatmap")
