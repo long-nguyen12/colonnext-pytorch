@@ -1,7 +1,4 @@
 # ColonNeXt for Polyp Segmentation
-> **Authors:** 
-> Hoang Long Nguyen, 
-> Dinh Cong Nguyen
 
 This repository contains the official Pytorch implementation of training & evaluation code for ColonNeXt.
 
